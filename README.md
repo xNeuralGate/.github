@@ -27,7 +27,7 @@
 ## Ссылки
 
 - Сайт: [НейроГейт.рф](https://НейроГейт.рф) ([neuralgate.ru](https://neuralgate.ru))
-- API: [api.neuralgate.ru](https://api.neuralgate.ru)
+- API: [neuralgate.ru/api](https://neuralgate.ru/api)
 - Панель управления: [dash.neuralgate.ru](https://dash.neuralgate.ru)
 
 ## Статус
