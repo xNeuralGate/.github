@@ -1,4 +1,3 @@
-# .github
 # НейроГейт.РФ
 
 НейроГейт — российская ИИ-платформа для B2B.
@@ -27,7 +26,7 @@
 
 ## Ссылки
 
-- Сайт: [НейроГейт.рф](https://НейроГейт.рф) [neuralgate.ru](https://neuralgate.ru)
+- Сайт: [НейроГейт.рф](https://НейроГейт.рф) ([neuralgate.ru](https://neuralgate.ru))
 - API: [api.neuralgate.ru](https://api.neuralgate.ru)
 - Панель управления: [dash.neuralgate.ru](https://dash.neuralgate.ru)
 
